@@ -3,8 +3,8 @@ name: WaveEditor and Frontend CI
 on:
   pull_request:
   push:
-    branches:
-      - main
+  branches:
+    - master
 
 permissions:
   contents: read
